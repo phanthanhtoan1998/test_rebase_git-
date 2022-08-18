@@ -20,5 +20,13 @@ public class test2 {
    int  c ;
    int d ;
 
+        System.out.println("ytyty ") ;
+        System.out.println("ytyty ") ;
+        System.out.println("2222 ") ;
+        System.out.println("2222 ") ;
+        System.out.println("ytyty ") ;
+        System.out.println("ytyty ") ;
+        System.out.println("ytyty ") ;
+        System.out.println("ytyty ") ;
     }
 }
