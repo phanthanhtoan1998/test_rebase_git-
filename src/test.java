@@ -4,7 +4,13 @@ public class test {
  int c ;
  int d ;
 
-
+        int a ;
+        int c ;
+        int d ; int a ;
+        int c ;
+        int d ; int a ;
+        int c ;
+        int d ;
 
         System.out.println("testing222");
         System.out.println("test222ing");
