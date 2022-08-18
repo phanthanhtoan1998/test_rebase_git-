@@ -5,5 +5,10 @@ public class test2 {
         System.out.println("5 ") ;
         System.out.println("5 ") ;
         System.out.println("5 ") ;
+        System.out.println("ewưe ") ;
+        System.out.println("ewew ") ;
+        System.out.println("5 ưeew") ;
+        System.out.println("ewew ") ;
+        System.out.println("ytyty ") ;
     }
 }
