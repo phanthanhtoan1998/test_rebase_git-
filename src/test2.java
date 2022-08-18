@@ -4,6 +4,10 @@ public class test2 {
         System.out.println("kkkkkk ") ;
 
 
-        System.out.println("ytyty ") ;
+   int a ;
+   int  b ;
+   int  c ;
+   int d ;
+
     }
 }
