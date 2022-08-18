@@ -4,6 +4,6 @@ public class test2 {
         System.out.println("ewew ") ;
         System.out.println("5 ưeew") ;
         System.out.println("ewew ") ;
-        System.out.println("5ưee ") ;
+        System.out.println("ytyty ") ;
     }
 }
