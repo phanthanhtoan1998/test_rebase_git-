@@ -10,5 +10,7 @@ public class test2 {
         System.out.println("5 ưeew") ;
         System.out.println("ewew ") ;
         System.out.println("ytyty ") ;
+        System.out.println("ytyty ") ;
+        System.out.println("ytyty ") ;
     }
 }
