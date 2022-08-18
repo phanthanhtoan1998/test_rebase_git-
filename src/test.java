@@ -1,5 +1,8 @@
 public class test {
     public static void main(String[] args) {
+int a;
+int b ;
+int c ;
 
         System.out.println("testing");
         System.out.println("testing");
