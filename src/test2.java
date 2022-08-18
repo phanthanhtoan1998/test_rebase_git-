@@ -11,6 +11,6 @@ public class test2 {
         System.out.println("ewew ") ;
         System.out.println("ytyty ") ;
         System.out.println("ytyty ") ;
-        System.out.println("ytyty ") ;
+        System.out.println("2222 ") ;
     }
 }
