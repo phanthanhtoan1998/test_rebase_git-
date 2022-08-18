@@ -2,6 +2,10 @@ public class test2 {
     void toafn(){
 
 
-        System.out.println("ytyty ") ;
+   int a ;
+   int  b ;
+   int  c ;
+   int d ;
+
     }
 }
